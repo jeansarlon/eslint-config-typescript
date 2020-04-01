@@ -1,0 +1,22 @@
+{
+  "author": {
+    "name": "Jean Sarlôn"
+  },
+  "description": "ESLint rules for TypeScript projects",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@jeansarlon/eslint-config-typescript",
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.3.1",
+    "@typescript-eslint/parser": "^2.3.1",
+    "eslint": "^6.4.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeansarlon/eslint-config-typescript"
+  },
+  "version": "1.0.0"
+}
